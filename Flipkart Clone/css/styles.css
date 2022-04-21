@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    height: 12vh;
+    background-color: black;
+    color: white;
+    font-family: Lato sans-serif;
+}
+header{
+    height: 10vh;
+    background-color: black;
+}
+nav ul li{
+    list-style: none;
+    padding: 0px 23px;
+
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: red;
+    font-style: bold;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 12vh;
+    padding-bottom: 7px;
+}
+nav{
+    display: flex;
+}
+.logo img{
+    height: 30px;
+    padding: 0px 20px ;
+   
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding-bottom: 32px;
+}
+.container{
+    min-height: calc(88vh);
+}
+.container .slider img{
+  width: 100%;  
+  height:80vh;
+    
+   
+}
+.container-2{
+    display: flex;
+}
+.fexy{
+    margin: 0px 20px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+.fexy img {
+    width: auto;
+    height: 400px;
+}
+.flexy{
+    line-height: 2;
+    
+}
+.flexy h1{
+    font-size: 2.4rem;
+    
+}
+.flexy p{
+    font-size: 1.2rem;
+    padding-left: 1rem;
+}
+.flexy  ul{
+    padding-left: 1rem;
+    text-decoration: none;
+    list-style: none;
+}
+.cardy{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 39px;
+    margin: auto;
+    max-width: 95vw;
+    border:  black;
+}
+.card-itemy{
+    margin: 20px;   
+}
+.card p{
+    line-height: 1;
+    list-style: bold;
+}
+
+.h{
+    padding-top: 50px;
+}
