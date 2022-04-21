@@ -20,3 +20,7 @@ Project5-Angela lu Protfolio Website
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/74282916/163954153-5d5792f7-672b-4764-99dc-e54e9961dd6a.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/74282916/163954187-1ed244bc-e023-411c-8ce9-d1b13eee9dd1.png)
+
+Project6-Flipkart Clone 
+
+![Screenshot (71)](https://user-images.githubusercontent.com/74282916/164383337-1eb7546a-fed0-4288-ba46-10e728f0a271.png)
