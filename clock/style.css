@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+button{
+    background-color: black;
+}
+#button{
+    background-color: black;
+}
+.dark-mode{
+    background-color: black;
+    color: white;
+}
