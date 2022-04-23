@@ -27,3 +27,6 @@ Project6-Flipkart Clone
 ![Screenshot (72)](https://user-images.githubusercontent.com/74282916/164383420-e39739bf-f948-45aa-9eb5-0ffa32ee1719.png)
 ![Screenshot (73)](https://user-images.githubusercontent.com/74282916/164383495-bf93b722-61b4-46ec-b035-b78025e46286.png)
 
+Project7 Js Clock
+
+![Screenshot (74)](https://user-images.githubusercontent.com/74282916/164884688-3c62db22-84d4-4687-834d-c5cb3f58d065.png)
