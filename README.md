@@ -30,3 +30,5 @@ Project6-Flipkart Clone
 Project7 Js Clock
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/74282916/164884688-3c62db22-84d4-4687-834d-c5cb3f58d065.png)
+
+[![parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKER-X)](https://github.com/PARKER-X/github-readme-stats)
