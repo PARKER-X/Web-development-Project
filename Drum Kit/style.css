@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: red;
+}
+
+h1{
+    text-align: center;
+    font-size: 4rem;
+}
+
+.set button{
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 20px;
+    font-size: 2rem;
+    background-color: aqua;
+    color: orangered;
+}
+.set {
+    text-align: center;
+    margin: 10px;
+    height: 60vh;
+}
+footer{
+    text-align: center;
+}
+
+.w{
+    background-image: url(img/tom1.png);
+}
+
+.a{
+    background-image: url(img/tom2.png);
+}
+
+.s{
+    background-image: url(img/tom3.png);
+}
+
+.d{
+    background-image: url(img/tom4.png);
+}
+
+.j{
+    background-image: url(img/snare.png);
+}
+
+.k{
+    background-image: url(img/crash.png);  
+}
+
+.l{
+    background-image: url(img/kick.png);
+}
