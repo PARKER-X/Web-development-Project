@@ -1,0 +1,33 @@
+@media only screen and (max-width:400px) {
+    body{
+        background-color:black;
+    }
+    .h1{
+        font-size: 1rem;
+    }
+    .songItem{
+        width: 100%;
+    }
+    .songItem:hover{
+        color: red;
+    }
+    nav ul li:hover{
+        color: red;
+    }
+    nav ul li {
+        color: white;
+        text-decoration: none;
+    }
+    .container{
+        padding-right: 76px;
+    }
+    .songInfo{
+        margin-bottom: 19px;
+    }
+    #myProgressBar{
+        margin-bottom: 17px;
+    }
+    nav ul li{
+        display: none;
+    }
+}

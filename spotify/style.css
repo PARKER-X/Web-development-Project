@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    background-color: antiquewhite;
+    color: white;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    font-family: 'ubuntu','Sans-serif';
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    height: 65px;
+    background-color: black;
+    color: white;
+}
+
+nav ul li a{
+    padding: 0 12px;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+
+}
+
+nav ul li a:hover{
+    color:red
+    
+}
+nav ul li:hover{
+    color:red;
+}
+
+.brand img{
+    width: 50px;
+    padding: 0 8px;
+    padding-right: 10px;
+}
+
+.brand{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.4rem;
+}
+
+.container{
+    min-height: 70vh;
+    background-color: black;
+    color: white;
+    font-family: 'Varela Round',sans-serif;
+    display: flex;
+    margin: 23px auto;
+    width: 70%;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url('bg.jpg');
+    background-size: cover;
+}
+
+.bottom{
+    position: sticky;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    bottom: 0;
+    justify-content: center;
+    align-items: center;
+    color:  white;
+    flex-direction: column;
+  
+}
+
+.icons{
+    margin-top: 14px;
+}
+
+.icons i {
+    cursor: pointer;
+}
+
+#myProgressBar{
+    width: 80vw;
+    cursor: pointer;
+}
+
+.songItemcontainer{
+    margin-top: 30px;
+}
+
+.songItem{
+    height: 40px;
+    display: flex;
+    background-color: white;
+    width: 60%;
+    color:black;
+    margin: 12px 0px;
+    justify-content: space-between;
+    margin: 12px 15px;
+    align-items: center;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+
+
+.songItem img{
+    width: 40px;
+    height: 35px;
+    border-radius: 34px;
+   
+}
+
+.timestamp{
+    margin: 0 23px;
+}
+
+.timestamp i{
+    cursor: pointer;
+}
+
+.songInfo{
+    position: absolute;
+    left: 10vw;
+    font-family: 'ubuntu','Sans-serif';
+}
+
+.songInfo img{
+    opacity: 0;
+    transition: opacity 0.2s ease-in;
+}
