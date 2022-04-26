@@ -41,3 +41,6 @@ Project9 Drum Kit
 ![Screenshot (76)](https://user-images.githubusercontent.com/74282916/165041648-d8a2dd35-35de-44ff-9ea8-26d424aba297.png)
 
 Project10 Spotify Clone -using Html Css and Js
+
+![Screenshot (87)](https://user-images.githubusercontent.com/74282916/165336207-96cded02-ecb9-406c-88ef-2abde8f54717.png)
+
