@@ -47,3 +47,4 @@ Project10 Spotify Clone -using Html Css and Js
 ![Screenshot (84)](https://user-images.githubusercontent.com/74282916/165336705-cb4d1940-0b70-4c1f-b2f7-2968d1c821e3.png)
 ![Screenshot (83)](https://user-images.githubusercontent.com/74282916/165336831-ab19be45-aeb8-457d-a991-7d9cb9a7a302.png)
 ![Screenshot (82)](https://user-images.githubusercontent.com/74282916/165337108-30d66cae-23fc-4208-b5eb-ee72cf80f7f1.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/74282916/165337315-6ff80e14-5021-47aa-b2f2-ff5addbb9aff.png)
