@@ -61,8 +61,8 @@ Project12 Gym
 
 
 
-Project13 Student Grade Calculator!
-[Screenshot (112)](https://user-images.githubusercontent.com/74282916/165957165-699189b5-5763-45d0-adbd-e248a1a3f795.png)
+Project13 Student Grade Calculator
+![Screenshot (112)](https://user-images.githubusercontent.com/74282916/165957165-699189b5-5763-45d0-adbd-e248a1a3f795.png)
 ![Screenshot (110)](https://user-images.githubusercontent.com/74282916/165957184-fef727f7-6f90-4018-be14-1f69a6a1eab7.png)
 
 
