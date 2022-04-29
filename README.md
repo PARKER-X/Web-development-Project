@@ -56,8 +56,9 @@ project11 Simple Monkey Project
 
 Project12 Gym
 
-![Screenshot (91)](https://user-images.githubusercontent.com/74282916/165562620-c986c86d-fe3a-49a9-a5!
-9c-2ff2e3aee894.png)
+![Screenshot (91)](https://user-images.githubusercontent.com/74282916/165957438-751b58f3-37ab-4989-9616-e1004f5f24dc.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/74282916/165957455-44c7a83d-741b-4fb2-9c6f-086106823052.png)
+
 
 
 Project13 Student Grade Calculator!
