@@ -66,7 +66,8 @@ Project13 Student Grade Calculator
 ![Screenshot (110)](https://user-images.githubusercontent.com/74282916/165957184-fef727f7-6f90-4018-be14-1f69a6a1eab7.png)
 
 project14 Car Animation
-![Screenshot (114)](https://user-images.githubusercontent.com/74282916/166094482-a6516147-b11d-!![Screenshot (120)](https://user-images.githubusercontent.com/74282916/166151964-f7ba6565-7766-463c-b74c-e5be1c08c04d.png)
+
+![Screenshot (114)](https://user-images.githubusercontent.com/74282916/166152550-d9770c8a-20c8-4b5f-aa10-833e2ac69bb7.png)
 
 
 Project15 Developers
