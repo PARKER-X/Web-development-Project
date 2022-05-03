@@ -1,0 +1,41 @@
+@media screen and (max-width: 400px) {
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 20px;
+        width: 100%;
+    }
+
+    .navul{
+        
+        text-decoration: none;
+        list-style: none;
+        visibility: hidden;
+        display: hidden;
+    
+    }
+
+    nav ul  {
+        padding-right: 20px;
+        cursor: pointer;
+        display: none;
+    }
+
+    .firstcontainer{
+        background-image: url(img/slide-1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 200%;
+    }
+
+    .text{
+        text-align: center;
+        margin-left: 50vw;
+    }
+
+}
