@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+input{
+    font-size: 1.4rem;
+}
+
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border-radius: 9px;
+    border: 2px solid black;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 2rem;
+}
+
+.button:hover{
+    border: 2px solid aqua;
+}
+
+.row{
+    margin-top: 20px 0;
+}
+
+.row input{
+    padding-top: 27px;
+}
