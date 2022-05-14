@@ -100,7 +100,6 @@ Project16 Customer Managment System
 ![Screenshot (137)](https://user-images.githubusercontent.com/74282916/168411810-af7fa1f4-9f44-4cb1-b4a3-0126fd373e08.png)
 ![Screenshot (138)](https://user-images.githubusercontent.com/74282916/168411812-2e7ed0a3-8d77-4328-9d6b-ff3d6b6b37d2.png)
 ![Screenshot (139)](https://user-images.githubusercontent.com/74282916/168411814-6a59aa54-fc16-4511-84ab-386d9492bf27.png)
-creenshot (128)](https://user-images.githubusercontent.com/74282916/168411752-8a9ec61c-65b4-41e3-b290-d57ee13da5f0.png)
 ![Screenshot (129)](https://user-images.githubusercontent.com/74282916/168411766-d740dd4c-5dcd-4824-90ac-b09a72b42c4c.png)
 ![Screenshot (130)](https://user-images.githubusercontent.com/74282916/168411774-281cf452-7fa2-4b78-888e-8113fc8c87a5.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/74282916/168411783-2f694c6e-3c28-47e9-a1c8-184eedaa4d76.png)
